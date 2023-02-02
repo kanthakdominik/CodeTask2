@@ -9,7 +9,7 @@
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/kanthakdominik/CodeTask.git
+git clone https://github.com/kanthakdominik/CodeTask2.git
 ```
 
 **2. Run the tests using maven**
